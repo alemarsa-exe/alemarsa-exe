@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Mexico City<br>🔭 I’m currently working at AgenteBTC<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Java and Springboot<br>⚡ Fun fact: I really like the Metroid franchise
+🌍  I'm based in Mexico City<br>🔭 I’m currently working at Nutanix<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Cloud Computing, Storage & Virtualization<br>⚡ Fun fact: I really like the Metroid franchise
 
 
 ## 🌐 Socials:
